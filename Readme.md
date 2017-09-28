@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Валерий Рындин](https://up.htmlacademy.ru/ecmascript/3/user/508519).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Баранов](https://up.htmlacademy.ru/ecmascript/3/user/14760).
 
 ---
 
